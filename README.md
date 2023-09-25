@@ -1,8 +1,7 @@
 ### Seja Bem Vindo !! 👋
 
+**Evandro Silva (DeshProgrameer)** sou um ✨ _Estudante_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
-**DeshProgrameer/DeshProgrameer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
